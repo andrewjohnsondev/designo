@@ -1,9 +1,9 @@
-import { useState, useLayoutEffect } from 'react';
+import { useState } from 'react';
 
 import { ThemeProvider } from 'styled-components';
 import { GlobalStyles } from './components/styles/Global';
 import { theme } from './components/styles/Theme';
-import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Header from './components/App/Header';
 import HomePage from './components/App/HomePage';
 import Footer from './components/App/Footer/Footer';
