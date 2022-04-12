@@ -1,0 +1,8 @@
+.project-card {
+  text-decoration: none;
+}
+
+.project-card:hover > *::after {
+  background-color: #e7816b;
+  opacity: 0.9;
+}
