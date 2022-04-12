@@ -82,7 +82,7 @@ function ContactForm({ setAnimate }) {
   const renderError = (err) => {
     return (
       <span className="error">
-        {err} <img src={errorIcon} />
+        {err} <img alt="" src={errorIcon} />
       </span>
     );
   };
