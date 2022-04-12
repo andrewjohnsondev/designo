@@ -5,7 +5,6 @@ import styled from 'styled-components';
 import { useTheme } from 'styled-components';
 import { StyledButton } from '../../shared/Button';
 import { useEffect } from 'react';
-import { FormSubmitted } from './FormSubmitted';
 import errorIcon from '../../../assets/contact/desktop/icon-error.svg';
 
 const Input = styled.input`
