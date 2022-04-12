@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.5a5405c6.css","mappings":"AAAA,cACE,oBACF,CAEA,2BACE,wBAAyB,CACzB,UACF","sources":["components/shared/Projects/Project.css"],"sourcesContent":[".project-card {\n  text-decoration: none;\n}\n\n.project-card:hover > *::after {\n  background-color: #e7816b;\n  opacity: 0.9;\n}\n"],"names":[],"sourceRoot":""}
